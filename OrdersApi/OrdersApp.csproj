@@ -1,0 +1,141 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\package.json" />
+    <Content Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\_metadata.json" />
+    <Content Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps_ssr\package.json" />
+    <Content Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps_ssr\_metadata.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ClientApp\.git\objects\info\" />
+    <Folder Include="ClientApp\.git\objects\pack\" />
+    <Folder Include="ClientApp\.git\refs\tags\" />
+    <Folder Include="Files\" />
+    <Folder Include="Logs\" />
+    <Folder Include="wwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\.tsbuildinfo" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\angular-compiler.db" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\angular-compiler.db-lock" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\basic-ssl\_cert.pem" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_common.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_common.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_common_http.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_common_http.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_core.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_core.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_forms.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_forms.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_material_snack-bar.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_material_snack-bar.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_platform-browser.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_platform-browser.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_router.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40angular_router.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40ng-select_ng-select.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40ng-select_ng-select.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40zxing_library.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40zxing_library.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40zxing_ngx-scanner.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\%40zxing_ngx-scanner.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-5HONZSNN.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-5HONZSNN.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-HWF3ENF6.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-HWF3ENF6.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-ICV4TB7J.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-ICV4TB7J.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-IF3ASGUZ.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-IF3ASGUZ.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-NIMCWJTR.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-NIMCWJTR.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-PPFY2P7X.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-PPFY2P7X.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-Y4KFRYPX.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\chunk-Y4KFRYPX.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\fs-BSX2J5PF.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\fs-BSX2J5PF.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\http-3CT2HGWN.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\http-3CT2HGWN.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\https-HEKUO7DA.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\https-HEKUO7DA.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\ng2-pdf-viewer.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\ng2-pdf-viewer.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\ngx-barcode-scanner.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\ngx-barcode-scanner.js.map" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\url-JDV7XCKY.js" />
+    <None Include="ClientApp\.angular\cache\19.2.4\App-v1\vite\deps\url-JDV7XCKY.js.map" />
+    <None Include="ClientApp\.git\COMMIT_EDITMSG" />
+    <None Include="ClientApp\.git\config" />
+    <None Include="ClientApp\.git\description" />
+    <None Include="ClientApp\.git\HEAD" />
+    <None Include="ClientApp\.git\hooks\applypatch-msg.sample" />
+    <None Include="ClientApp\.git\hooks\commit-msg.sample" />
+    <None Include="ClientApp\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="ClientApp\.git\hooks\post-update.sample" />
+    <None Include="ClientApp\.git\hooks\pre-applypatch.sample" />
+    <None Include="ClientApp\.git\hooks\pre-commit.sample" />
+    <None Include="ClientApp\.git\hooks\pre-merge-commit.sample" />
+    <None Include="ClientApp\.git\hooks\pre-push.sample" />
+    <None Include="ClientApp\.git\hooks\pre-rebase.sample" />
+    <None Include="ClientApp\.git\hooks\pre-receive.sample" />
+    <None Include="ClientApp\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="ClientApp\.git\hooks\push-to-checkout.sample" />
+    <None Include="ClientApp\.git\hooks\update.sample" />
+    <None Include="ClientApp\.git\index" />
+    <None Include="ClientApp\.git\info\exclude" />
+    <None Include="ClientApp\.git\logs\HEAD" />
+    <None Include="ClientApp\.git\logs\refs\heads\master" />
+    <None Include="ClientApp\.git\objects\0f\59dba6a956e180f41eef884000509f32f8e018" />
+    <None Include="ClientApp\.git\objects\10\d066f35a22aa8094b8d517242f3434a174f868" />
+    <None Include="ClientApp\.git\objects\35\b00f3463311f2afe0fd0d9d5f696dbb992dff5" />
+    <None Include="ClientApp\.git\objects\36\093e1879779624f181733152bb55d71a711d3b" />
+    <None Include="ClientApp\.git\objects\37\75b37e3bbc6659e266676de37fffdd7cfebb5c" />
+    <None Include="ClientApp\.git\objects\37\f92610aa8192aae6b0256d026572003c436894" />
+    <None Include="ClientApp\.git\objects\55\25117c674459488e928a44b964a058cd801837" />
+    <None Include="ClientApp\.git\objects\57\614f9c967596fad0a3989bec2b1deff33034f6" />
+    <None Include="ClientApp\.git\objects\5f\b748d9207a99686549d6ef1415527dc544dd0f" />
+    <None Include="ClientApp\.git\objects\70\fda94c3329e74b5f94cebf710148e7dc0abe72" />
+    <None Include="ClientApp\.git\objects\77\b374577de83b86d846eadda2dd17532d7dabaa" />
+    <None Include="ClientApp\.git\objects\88\8de60136b77da044bb90ee4ae0792fa551d847" />
+    <None Include="ClientApp\.git\objects\8b\0285c061dabdebdebe105694555f6bf457ea24" />
+    <None Include="ClientApp\.git\objects\8b\70beabc25e1ba5135ea5fe616856b9fe3a9beb" />
+    <None Include="ClientApp\.git\objects\90\d4ee0072ce3fc41812f8af910219f9eea3c3de" />
+    <None Include="ClientApp\.git\objects\92\5af837050a4abe679c5fea0df7e41faf6fc011" />
+    <None Include="ClientApp\.git\objects\9d\f4bae04743fed3b4d3a42eb83e4f435f456ff5" />
+    <None Include="ClientApp\.git\objects\a1\e7d6f864c12b24d39204782ce2972f2091ca35" />
+    <None Include="ClientApp\.git\objects\a2\98b5bd8796ac377fe9ed64caa249e24c7ec3b6" />
+    <None Include="ClientApp\.git\objects\b3\f1ecf44a54372bf90afbb60491417242b8769c" />
+    <None Include="ClientApp\.git\objects\cc\7b141350ffde43afce3ec16ea4d7b5007cde2b" />
+    <None Include="ClientApp\.git\objects\dc\39edb5f23a35f788cba146dd7337127ba6c5ab" />
+    <None Include="ClientApp\.git\objects\e0\16d31e3d814bb86bc7fa041cfcd06b33922305" />
+    <None Include="ClientApp\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+    <None Include="ClientApp\.git\objects\ea\3e5fc455b56613fc9ca606790f58aea47ec419" />
+    <None Include="ClientApp\.git\objects\ee\1f1199209de53c3194a0faa1b89b3abf283542" />
+    <None Include="ClientApp\.git\objects\f1\66060da1cbc9f216e9f5e99a1ef6074ce2a8f8" />
+    <None Include="ClientApp\.git\objects\f8\e2c4844c181b18739e65e58ea292f2345738cf" />
+    <None Include="ClientApp\.git\refs\heads\master" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrdersRepo\Orders Repo.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="call ClientAppBuild.bat" />
+  </Target>
+
+</Project>
