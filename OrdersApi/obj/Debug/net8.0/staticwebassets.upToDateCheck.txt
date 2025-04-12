@@ -1,0 +1,14 @@
+wwwroot\arrowright.png
+wwwroot\arrowrightbig.svg
+wwwroot\arrowrightcircle.svg
+wwwroot\chunk-ALIQTIYY.js
+wwwroot\chunk-BMBYILCS.js
+wwwroot\chunk-L2HEV66R.js
+wwwroot\chunk-NYZOWURK.js
+wwwroot\favicon.ico
+wwwroot\index.html
+wwwroot\main-MQEALWAT.js
+wwwroot\media\bootstrap-icons-OCU552PF.woff
+wwwroot\media\bootstrap-icons-X6UQXWUS.woff2
+wwwroot\polyfills-FFHMD2TL.js
+wwwroot\styles-Y43YLPWW.css

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\pavan\source\repos\BurjeeApi\BurjeeApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-04-11T21:35:27.2512703Z||;True|2025-04-11T13:55:12.2682591-05:00||;False|2025-04-11T13:54:23.5154612-05:00||;True|2025-04-11T12:07:25.6047634-05:00||;True|2025-04-08T20:06:54.1295434-05:00||;True|2025-04-07T19:14:47.4998909-05:00||;True|2025-04-07T19:14:06.7572846-05:00||;False|2025-04-07T19:13:59.2710897-05:00||;True|2025-04-07T18:56:42.2181608-05:00||;False|2025-04-07T18:55:58.9805393-05:00||;True|2025-04-07T18:33:09.3022982-05:00||;True|2025-04-05T14:59:09.8525137-05:00||;True|2025-04-04T12:36:48.1526152-05:00||;True|2025-04-03T17:19:31.2231625-05:00||;True|2025-04-03T08:37:05.9355002-05:00||;True|2025-04-02T18:33:49.2640183-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

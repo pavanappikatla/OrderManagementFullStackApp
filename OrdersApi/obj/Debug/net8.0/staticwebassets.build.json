@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "Hash": "oLwI8GAhS3RFUaZo1gSF6pNwiU2IlU9pmAmkTMtzWyI=",
+  "Source": "OrdersApp",
+  "BasePath": "_content/OrdersApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrdersApp\\wwwroot",
+      "Source": "OrdersApp",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowright.png",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "arrowright#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n3cvhhyjca",
+      "Integrity": "/Tvuk54hfBOWJIGsQ7uEIrUqH444eGMQCns8Zfd8JrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\arrowright.png"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowrightbig.svg",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "arrowrightbig#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l4q8bwk9kx",
+      "Integrity": "RSFaEBaSyWQErMsVYkyp6Qp2iSfhshHa0snXtmN07mI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\arrowrightbig.svg"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowrightcircle.svg",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "arrowrightcircle#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xyp6z0nt68",
+      "Integrity": "B4R88g8SBFz5rm4Du3f5DKvZX8zaKnoHDRe0DKeDiYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\arrowrightcircle.svg"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-ALIQTIYY.js",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "chunk-ALIQTIYY#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-ALIQTIYY.js"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-BMBYILCS.js",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "chunk-BMBYILCS#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-BMBYILCS.js"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-L2HEV66R.js",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "chunk-L2HEV66R#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-L2HEV66R.js"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-NYZOWURK.js",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "chunk-NYZOWURK#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-NYZOWURK.js"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\favicon.ico",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\index.html",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90veq61squ",
+      "Integrity": "hyl7UskZlQrb700fyuVYGDjXJhhxCmL9UJQt9cXZCQc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\main-MQEALWAT.js",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "main-MQEALWAT#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogvp65lfzd",
+      "Integrity": "eIr1rNRQPYyW9ZC4GCfJd49+B9um/z30n2VXmgPy7gk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main-MQEALWAT.js"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\media\\bootstrap-icons-OCU552PF.woff",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "media/bootstrap-icons-OCU552PF#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lssqqxhxcq",
+      "Integrity": "ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\bootstrap-icons-OCU552PF.woff"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\media\\bootstrap-icons-X6UQXWUS.woff2",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "media/bootstrap-icons-X6UQXWUS#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xeyugjpn2t",
+      "Integrity": "R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\bootstrap-icons-X6UQXWUS.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\polyfills-FFHMD2TL.js",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "39tegmrjtp",
+      "Integrity": "adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Identity": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\styles-Y43YLPWW.css",
+      "SourceId": "OrdersApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\",
+      "BasePath": "_content/OrdersApp",
+      "RelativePath": "styles-Y43YLPWW#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fnkhoewrrt",
+      "Integrity": "Na2VIvlmqWXJKTdBMkJiWInP5z7BB44St93dpPVONMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles-Y43YLPWW.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "arrowright.n3cvhhyjca.png",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowright.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Tvuk54hfBOWJIGsQ7uEIrUqH444eGMQCns8Zfd8JrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 00:55:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3cvhhyjca"
+        },
+        {
+          "Name": "label",
+          "Value": "arrowright.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Tvuk54hfBOWJIGsQ7uEIrUqH444eGMQCns8Zfd8JrU="
+        }
+      ]
+    },
+    {
+      "Route": "arrowright.png",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowright.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Tvuk54hfBOWJIGsQ7uEIrUqH444eGMQCns8Zfd8JrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 00:55:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Tvuk54hfBOWJIGsQ7uEIrUqH444eGMQCns8Zfd8JrU="
+        }
+      ]
+    },
+    {
+      "Route": "arrowrightbig.l4q8bwk9kx.svg",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowrightbig.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSFaEBaSyWQErMsVYkyp6Qp2iSfhshHa0snXtmN07mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 00:26:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l4q8bwk9kx"
+        },
+        {
+          "Name": "label",
+          "Value": "arrowrightbig.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSFaEBaSyWQErMsVYkyp6Qp2iSfhshHa0snXtmN07mI="
+        }
+      ]
+    },
+    {
+      "Route": "arrowrightbig.svg",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowrightbig.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSFaEBaSyWQErMsVYkyp6Qp2iSfhshHa0snXtmN07mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 00:26:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSFaEBaSyWQErMsVYkyp6Qp2iSfhshHa0snXtmN07mI="
+        }
+      ]
+    },
+    {
+      "Route": "arrowrightcircle.svg",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowrightcircle.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B4R88g8SBFz5rm4Du3f5DKvZX8zaKnoHDRe0DKeDiYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 00:15:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B4R88g8SBFz5rm4Du3f5DKvZX8zaKnoHDRe0DKeDiYM="
+        }
+      ]
+    },
+    {
+      "Route": "arrowrightcircle.xyp6z0nt68.svg",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\arrowrightcircle.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B4R88g8SBFz5rm4Du3f5DKvZX8zaKnoHDRe0DKeDiYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 00:15:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xyp6z0nt68"
+        },
+        {
+          "Name": "label",
+          "Value": "arrowrightcircle.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B4R88g8SBFz5rm4Du3f5DKvZX8zaKnoHDRe0DKeDiYM="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ALIQTIYY.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-ALIQTIYY.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-ALIQTIYY.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ALIQTIYY.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-ALIQTIYY.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-BMBYILCS.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-BMBYILCS.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-BMBYILCS.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-BMBYILCS.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-BMBYILCS.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-L2HEV66R.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-L2HEV66R.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-L2HEV66R.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-L2HEV66R.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-L2HEV66R.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-NYZOWURK.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-NYZOWURK.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-NYZOWURK.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-NYZOWURK.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\chunk-NYZOWURK.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 22:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 22:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "index.90veq61squ.html",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyl7UskZlQrb700fyuVYGDjXJhhxCmL9UJQt9cXZCQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90veq61squ"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hyl7UskZlQrb700fyuVYGDjXJhhxCmL9UJQt9cXZCQc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyl7UskZlQrb700fyuVYGDjXJhhxCmL9UJQt9cXZCQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hyl7UskZlQrb700fyuVYGDjXJhhxCmL9UJQt9cXZCQc="
+        }
+      ]
+    },
+    {
+      "Route": "main-MQEALWAT.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\main-MQEALWAT.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1593899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eIr1rNRQPYyW9ZC4GCfJd49+B9um/z30n2VXmgPy7gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eIr1rNRQPYyW9ZC4GCfJd49+B9um/z30n2VXmgPy7gk="
+        }
+      ]
+    },
+    {
+      "Route": "main-MQEALWAT.ogvp65lfzd.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\main-MQEALWAT.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1593899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eIr1rNRQPYyW9ZC4GCfJd49+B9um/z30n2VXmgPy7gk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogvp65lfzd"
+        },
+        {
+          "Name": "label",
+          "Value": "main-MQEALWAT.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eIr1rNRQPYyW9ZC4GCfJd49+B9um/z30n2VXmgPy7gk="
+        }
+      ]
+    },
+    {
+      "Route": "media/bootstrap-icons-OCU552PF.lssqqxhxcq.woff",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\media\\bootstrap-icons-OCU552PF.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lssqqxhxcq"
+        },
+        {
+          "Name": "label",
+          "Value": "media/bootstrap-icons-OCU552PF.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="
+        }
+      ]
+    },
+    {
+      "Route": "media/bootstrap-icons-OCU552PF.woff",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\media\\bootstrap-icons-OCU552PF.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="
+        }
+      ]
+    },
+    {
+      "Route": "media/bootstrap-icons-X6UQXWUS.woff2",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\media\\bootstrap-icons-X6UQXWUS.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "media/bootstrap-icons-X6UQXWUS.xeyugjpn2t.woff2",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\media\\bootstrap-icons-X6UQXWUS.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xeyugjpn2t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/bootstrap-icons-X6UQXWUS.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39tegmrjtp"
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "polyfills-FFHMD2TL.js",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\polyfills-FFHMD2TL.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        }
+      ]
+    },
+    {
+      "Route": "styles-Y43YLPWW.css",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\styles-Y43YLPWW.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Na2VIvlmqWXJKTdBMkJiWInP5z7BB44St93dpPVONMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Na2VIvlmqWXJKTdBMkJiWInP5z7BB44St93dpPVONMg="
+        }
+      ]
+    },
+    {
+      "Route": "styles-Y43YLPWW.fnkhoewrrt.css",
+      "AssetFile": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\OrdersApi\\wwwroot\\styles-Y43YLPWW.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Na2VIvlmqWXJKTdBMkJiWInP5z7BB44St93dpPVONMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fnkhoewrrt"
+        },
+        {
+          "Name": "label",
+          "Value": "styles-Y43YLPWW.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Na2VIvlmqWXJKTdBMkJiWInP5z7BB44St93dpPVONMg="
+        }
+      ]
+    }
+  ]
+}

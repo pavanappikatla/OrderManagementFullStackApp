@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders Repo", "OrdersRepo\Orders Repo.csproj", "{AC0A696B-851B-AA88-188F-161C4EE0A522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersApp", "OrdersApi\OrdersApp.csproj", "{9B0623CE-B750-963D-1C08-0F9720A365FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0A696B-851B-AA88-188F-161C4EE0A522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0A696B-851B-AA88-188F-161C4EE0A522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0A696B-851B-AA88-188F-161C4EE0A522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0A696B-851B-AA88-188F-161C4EE0A522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0623CE-B750-963D-1C08-0F9720A365FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0623CE-B750-963D-1C08-0F9720A365FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0623CE-B750-963D-1C08-0F9720A365FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0623CE-B750-963D-1C08-0F9720A365FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A990FE-35B1-41E3-A2EA-13C2A668DBF6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\arrowright.png",
+      "PackagePath": "staticwebassets\\arrowright.png"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\arrowrightbig.svg",
+      "PackagePath": "staticwebassets\\arrowrightbig.svg"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\arrowrightcircle.svg",
+      "PackagePath": "staticwebassets\\arrowrightcircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\chunk-ALIQTIYY.js",
+      "PackagePath": "staticwebassets\\chunk-ALIQTIYY.js"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\chunk-BMBYILCS.js",
+      "PackagePath": "staticwebassets\\chunk-BMBYILCS.js"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\chunk-L2HEV66R.js",
+      "PackagePath": "staticwebassets\\chunk-L2HEV66R.js"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\chunk-NYZOWURK.js",
+      "PackagePath": "staticwebassets\\chunk-NYZOWURK.js"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\main-QX4URX3F.js",
+      "PackagePath": "staticwebassets\\main-QX4URX3F.js"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\media\\bootstrap-icons-OCU552PF.woff",
+      "PackagePath": "staticwebassets\\media\\bootstrap-icons-OCU552PF.woff"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\media\\bootstrap-icons-X6UQXWUS.woff2",
+      "PackagePath": "staticwebassets\\media\\bootstrap-icons-X6UQXWUS.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\polyfills-FFHMD2TL.js",
+      "PackagePath": "staticwebassets\\polyfills-FFHMD2TL.js"
+    },
+    {
+      "Id": "C:\\Users\\pavan\\source\\repos\\BurjeeApi\\BurjeeApi\\wwwroot\\styles-Y43YLPWW.css",
+      "PackagePath": "staticwebassets\\styles-Y43YLPWW.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.OrdersApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.OrdersApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.OrdersApp.props",
+      "PackagePath": "build\\OrdersApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OrdersApp.props",
+      "PackagePath": "buildMultiTargeting\\OrdersApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.OrdersApp.props",
+      "PackagePath": "buildTransitive\\OrdersApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
