@@ -1,0 +1,47 @@
+
+@if(display && whetherPdf===false)
+{
+  <div class="modal fade show d-block" id="imageModal" tabindex="-1" aria-hidden="true" style="background-color: rgba(0, 0, 0, 0.2);">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content bg-dark text-white">
+        <div class="modal-header border-0">
+          <button type="button" class="btn-close btn-close-white" (click)="hideDisplay()"></button>
+        </div>
+        <div class="modal-body text-center">
+          <img [src]="fileURL" class="img-fluid" alt="Preview">
+        </div>
+      </div>
+    </div>
+  </div>
+}
+
+@if(display && whetherPdf)
+{
+  <div class="modal fade show d-block" id="imageModal" tabindex="-1" aria-hidden="true" style="background-color: rgba(0, 0, 0, 0.2);">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content bg-dark text-white">
+        <div class="modal-header border-0">
+  <button type="button" class="btn-close btn-close-white" aria-label="Close" (click)="hideDisplay()"></button>
+</div>
+<div class="modal-body text-center" style="max-height: 80vh; overflow-y: auto;">
+<pdf-viewer
+      [src]="fileURL"
+      [rotation]="0"
+      [original-size]="false"
+      [show-all]="true"
+      [fit-to-page]="false"
+      [zoom]="1"
+      [zoom-scale]="'page-width'"
+      [stick-to-page]="false"
+      [render-text]="true"
+      [external-link-target]="'blank'"
+      [autoresize]="true"
+      [show-borders]="false"
+      style="width: 100%; height: 75vh;"
+    ></pdf-viewer>
+  </div>
+</div>
+</div>
+</div>
+}
+

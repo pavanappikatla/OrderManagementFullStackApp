@@ -1,0 +1,63 @@
+
+
+.underline {
+  text-decoration: underline;
+}
+
+/* Style the ng-select container */
+::ng-deep .customdropdown .ng-select-container {
+
+
+  width: 100%;
+}
+
+::ng-deep .customdropdown .ng-select-container {
+  height: 48px !important; /* or any height you prefer */
+  min-height: 48px !important;
+  display: flex;
+  align-items: center; /* vertically center text */
+  font-size: 16px; /* optional: increase font size too */
+  border: 1px solid #ccc !important;
+  background-color: white !important;
+  border-radius: 4px;
+}
+
+::ng-deep .customdropdown .ng-value {
+  padding-left: 8px; /* adjust value as needed */
+}
+
+/* Style the dropdown panel to match width */
+::ng-deep .customdropdown .ng-dropdown-panel {
+  background-color: white !important;
+  z-index: 1055;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  width: 95% !important; /* Match width of select box */
+}
+
+/* Style dropdown items */
+::ng-deep .customdropdown .ng-option {
+  padding: 10px 16px !important; /* More space between items */
+  margin: 4px 0; /* Optional: vertical gap between items */
+  border-radius: 4px; /* Optional: rounded edges for better UI */
+  margin-right: 2px;
+}
+
+/* Highlight on hover */
+::ng-deep .customdropdown .ng-option:hover {
+  background-color: #f1f1f1;
+}
+
+::ng-deep .customdropdown .ng-arrow-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+}
+
+::ng-deep .customdropdown .ng-arrow {
+  border-color: #333 transparent transparent transparent; /* triangle color */
+  border-style: solid;
+  border-width: 6px 6px 0 6px; /* shape of the triangle */
+  margin-top: 4px;
+}

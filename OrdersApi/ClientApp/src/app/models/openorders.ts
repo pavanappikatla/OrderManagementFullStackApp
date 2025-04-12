@@ -1,0 +1,27 @@
+export interface openOrders{
+  order_Detail_ID	:	number
+  poLin	:	number
+  jobNo	:	string
+  po	:	string
+  partNum	:	string
+  rev	:	string
+  dueDte	:	Date
+  revDte	:	Date
+  description	:	string
+  notes	:	string
+  ordered	:	number
+  total	:	number
+  toMake	:	number
+  open	:	number
+  customer	:	string
+  rts	:	number
+  rtt	:	number
+  status	:	string
+  altPN	:	string
+  subAsmbly	:	boolean
+  prodCode	:	string
+  hts	:	string
+  processed	:	boolean
+  price	:	number
+  order_Header_ID	:	number
+}
